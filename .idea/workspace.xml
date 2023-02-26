@@ -9,12 +9,21 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17516684-31ea-418f-92ff-7298ec8cfd41" name="Changes" comment="Crearea activity cu figura triunghi" />
+    <list default="true" id="17516684-31ea-418f-92ff-7298ec8cfd41" name="Changes" comment="Crearea activity cu figura triunghi">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/cihcahul/sem1homework1/CircleActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/cihcahul/sem1homework1/CircleActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/cihcahul/sem1homework1/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/cihcahul/sem1homework1/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/cihcahul/sem1homework1/RectangleActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/cihcahul/sem1homework1/RectangleActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/cihcahul/sem1homework1/TriangleActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/cihcahul/sem1homework1/TriangleActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_circle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_circle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_rectangle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rectangle.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[D:\Android_SDK\.android\avd\Pixel_5_API_30.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -136,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677401949504</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Crearea activity cu figura triunghi">
+      <created>1677402253359</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677402253359</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -22,5 +22,25 @@ public class TriangleActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+
+        Button btnRectangle = (Button) findViewById(R.id.btnRectangle);
+
+        btnRectangle.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(TriangleActivity.this, RectangleActivity.class);
+                startActivity(intent);
+            }
+        });
+
+        Button btnCircle = (Button) findViewById(R.id.btnCircle);
+
+        btnCircle.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(TriangleActivity.this, CircleActivity.class);
+                startActivity(intent);
+            }
+        });
     }
 }
