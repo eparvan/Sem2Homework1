@@ -42,4 +42,8 @@ public class RectangleActivity extends AppCompatActivity {
             }
         });
     }
+    @Override
+    public void onBackPressed() {
+        moveTaskToBack(true);
+    }
 }

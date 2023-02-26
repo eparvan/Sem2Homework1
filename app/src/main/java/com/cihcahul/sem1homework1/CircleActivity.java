@@ -42,7 +42,9 @@ public class CircleActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
-
-
+    }
+    @Override
+    public void onBackPressed() {
+        moveTaskToBack(true);
     }
 }
